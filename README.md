@@ -68,14 +68,6 @@ HPcortrzthSoSM8KJOpYg24kgIS6npZWBGNMJzlu1/Q=
 - **Encryption**: AES encryption is done using the `openssl_encrypt` function in CBC mode, with the key, IV, and padded text.
 - **Base64 Encoding**: The encrypted binary data is then encoded in Base64 using PHP's `base64_encode` function.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-Your Name (Optional)
-
 ## Contributions
 
 Feel free to fork this repository, make changes, and create pull requests if you have improvements to suggest!
